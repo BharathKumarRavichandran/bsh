@@ -1,0 +1,18 @@
+# ide
+.idea
+.vscode
+.directory
+
+# logs
+*.log
+*.logs
+
+# linker and binary files
+*.out
+bsh
+main
+shell
+
+# build files
+build/
+dist/
